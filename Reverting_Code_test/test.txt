@@ -1,0 +1,2 @@
+This is the initial version of code pushed to master.
+I have created BranchA from master. This line belongs to branchA.
